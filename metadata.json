@@ -1,0 +1,6 @@
+{
+  "name": "onboard-map",
+  "description": "Visualize, analyze, and understand any frontend codebase using dual-lens static diagnostics completely offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
